@@ -109,10 +109,6 @@ Kubernetes topics are categorized into these top headers. It may change in futur
       - [KubeOne (Kubermatic Installer)](https://github.com/ssbostan/kubernetes-complete-reference/blob/master/contents/tools/installation/kubeone.md)
  6. **Kubernetes Examples**
 
-# How to contribute:
 
-All contributions are welcomed. [CONTRIBUTING.md](https://github.com/ssbostan/kubernetes-complete-reference/blob/master/CONTRIBUTING.md)
 
-Everyone interested in the Kubernetes can contribute to this reference.
 
-Saeid Bostandoust <ssbostan@linuxmail.org>
